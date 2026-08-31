@@ -1,0 +1,40 @@
+graph TB
+    subgraph "采集层"
+        A1[智能相机SC16]
+        A2[吸顶天花麦MC16]
+        A3[评审终端]
+    end
+
+    subgraph "边缘算力层"
+        B1[AI芯片DF16 32TOPS]
+        B2[目标检测 YOLOv8]
+        B3[时序行为识别 SlowFast]
+        B4[语音识别 ASR+敏感词]
+    end
+
+    subgraph "多模态融合层"
+        C1[时空对齐]
+        C2[多模态特征融合]
+        C3[异常事件关联]
+        C4[置信度融合]
+    end
+
+    subgraph "Agent工作流层"
+        D1[异常预警Agent]
+        D2[自动切片Agent]
+        D3[证据绑定Agent]
+        D4[报告生成Agent]
+    end
+
+    subgraph "应用层"
+        E1[实时监控大屏]
+        E2[异常告警弹窗]
+        E3[数字见证报告]
+        E4[公共资源平台对接]
+    end
+
+    A1 & A2 & A3 --> B1
+    B1 --> B2 & B3 & B4
+    B2 & B3 & B4 --> C1 --> C2 --> C3 --> C4
+    C4 --> D1 & D2 & D3 & D4
+    D1 & D2 & D3 & D4 --> E1 & E2 & E3 & E4
