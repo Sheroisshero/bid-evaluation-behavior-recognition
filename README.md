@@ -6,6 +6,20 @@
 
 ---
 
+## 🎬 项目介绍视频
+
+<div align="center">
+
+<video src="assets/videos/project-intro.mp4" width="100%" controls autoplay loop muted playsinline>
+  您的浏览器不支持视频播放，请点击 <a href="assets/videos/project-intro.mp4">这里</a> 下载观看。
+</video>
+
+**多模态AI远程异地评标专家异常行为识别系统 — 项目介绍**
+
+</div>
+
+---
+
 ## 项目定位
 
 **多模态AI远程异地评标专家异常行为识别系统**是由**广州市政府采购中心**联合**视源股份（MAXHUB）**通过**合作创新采购方式**（财库〔2024〕13号）共同研发的智慧监管系统，于2026年启动研发，是全国首个面向政府采购远程异地评标场景的多模态AI异常行为识别系统。
