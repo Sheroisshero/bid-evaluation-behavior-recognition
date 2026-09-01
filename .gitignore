@@ -26,5 +26,6 @@ data/raw/
 models/
 *.mp4
 *.wav
-# 允许项目介绍视频
+# 允许项目介绍视频和GIF
 !assets/videos/*.mp4
+!assets/videos/*.gif

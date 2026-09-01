@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<video src="assets/videos/project-intro.mp4" width="100%" controls autoplay loop muted playsinline>
-  您的浏览器不支持视频播放，请点击 <a href="assets/videos/project-intro.mp4">这里</a> 下载观看。
-</video>
+![项目介绍视频](assets/videos/project-intro.gif)
 
-**多模态AI远程异地评标专家异常行为识别系统 — 项目介绍**
+**多模态AI远程异地评标专家异常行为识别系统 — 项目介绍（前30秒精华）**
+
+📥 [点击下载完整视频（1分48秒，含音频）](assets/videos/project-intro.mp4)
 
 </div>
 
