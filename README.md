@@ -12,7 +12,7 @@
 
 ![项目介绍视频](assets/videos/project-intro.gif)
 
-**多模态AI远程异地评标专家异常行为识别系统 — 项目介绍（前30秒精华）**
+**多模态AI远程异地评标专家异常行为识别系统 — 项目介绍**
 
 📥 [点击下载完整视频（1分48秒，含音频）](assets/videos/project-intro.mp4)
 
