@@ -26,3 +26,5 @@ data/raw/
 models/
 *.mp4
 *.wav
+# 允许项目介绍视频
+!assets/videos/*.mp4
