@@ -387,3 +387,8 @@ Agent工作流负责：异常检测→等级判定→预警触发→证据固化
 ---
 
 *Architecture design & technical documentation by Yuge Wu | 广州市政府采购中心 · 远程异地评审智慧解决方案合作创新采购项目*
+
+
+---
+
+📁 本项目收录于 [吴宇歌个人作品集 2026](https://sheroisshero.github.io/wuyuge-portfolio/) — 含项目背景、架构图与可公开技术细节。
